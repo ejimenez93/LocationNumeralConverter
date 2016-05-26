@@ -8,7 +8,6 @@ import java.util.ArrayList;
  * - Convert location numerals into decimals
  * - Convert potentially extended location numerals into abbreviated location numerals
  *
- * Code Challenge for Core-Apps LLC
  * Created by Edison Jimenez on 5/10/16.
  */
 class LocationNumeralConverter {
